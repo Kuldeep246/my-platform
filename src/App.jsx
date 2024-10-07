@@ -3,6 +3,7 @@ import { ExternalLink } from "lucide-react"
 const platforms = [
   { name: 'LinkedIn', link: 'https://www.linkedin.com/in/kuldeep-singh-8b4313225/', logo: 'https://cdn-icons-png.flaticon.com/512/174/174857.png' },
   { name: 'Twitter', link: 'https://twitter.com/home', logo: 'https://cdn-icons-png.flaticon.com/512/733/733579.png' },
+  { name: 'YCombinator', link: 'https://www.ycombinator.com/topcompanies', logo: 'https://upload.wikimedia.org/wikipedia/commons/b/b2/Y_Combinator_logo.svg' },
   { name: 'Wellfound', link: 'https://wellfound.com/jobs', logo: 'https://wellfound.com/images/logo/wellfound-lockup-white.png' },
   { name: 'Naukri', link: 'https://www.naukri.com/mnjuser/profile?id=&altresid', logo: 'https://www.logoshape.com/png/naukri-logo_logoshape.com.png' },
   { name: 'Cuvette', link: 'https://cuvette.tech/app/student/', logo: 'https://media.licdn.com/dms/image/v2/C4E1BAQG72i3tra5ERw/company-background_10000/company-background_10000/0/1632204675186/cuvette_tech_cover?e=1728939600&v=beta&t=FJhv1XnfNgUSuXRQMsdJtGaPwpIeAyD7Y-0Jq74yL0E' },
